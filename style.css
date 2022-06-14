@@ -1,0 +1,32 @@
+
+
+h1 {
+    font-size: large;
+}
+
+.menu {
+    text-transform: uppercase;
+}
+
+.x {
+    background-color: lightgray;
+    width: 15px;
+}
+
+.cachorros {
+    list-style: none;
+    display: flex; 
+}
+
+.socialmedia {
+    list-style: none;
+    display: flex;
+}
+
+
+/*
+.cachorrinho div {
+    display: inline-block;
+}
+*/
+
